@@ -22,7 +22,7 @@ As seguintes ferramentas que foram utilizadas na construção do projeto:
       <td> <b>Geolocalização:</b> Recurso utilizado para representar dados em mapas, como o Faturamento Total por Capital, oferecendo uma visualização clara das variações regionais nas vendas.</td>
     </thead>
     <thead>
-      <td> <b>Interatividade:</b> Funcionalidade que permite ao usuário interagir com os gráficos, destacando dados relevantes e facilitando a análise detalhada de diferentes dimensões dos dados.</td>
+      <td> <b>Drill-Down:</b> Técnica que permite aprofundar a análise, possibilitando que o usuário clique em um gráfico para visualizar dados mais detalhados, como subdivisões por categorias ou períodos específicos, enriquecendo a compreensão dos dados.</td>
     </thead>
   </tbody>
 </table>
