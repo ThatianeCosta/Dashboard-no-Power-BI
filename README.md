@@ -17,7 +17,7 @@ As seguintes ferramentas que foram utilizadas na construção do projeto:
   </thead>
   <tbody>
     <thead>
-      <td> <b>Power BI:</b> Plataforma de visualização de dados que transforma informações em dashboards interativos, facilitando a análise e a apresentação de dados complexos de forma acessível. </td>
+      <td> <b>Power BI:</b> Plataforma de visualização de dados que transforma informações em dashboards interativos, facilitando a análise e a apresentação de dados complexos de forma acessível.</td>
     </thead>
     <thead>
       <td> <b>DAX (Data Analysis Expressions):</b> Linguagem de formulação utilizada no Power BI para criar cálculos e medidas personalizadas, permitindo análises mais profundas e insights detalhados.</td>
