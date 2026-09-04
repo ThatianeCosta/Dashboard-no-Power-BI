@@ -1,6 +1,6 @@
 # Dashboard no Power BI 📊
 
-No Power BI, criei um dashboard dinâmico utilizando uma planilha do Excel como base. O painel apresenta gráficos informativos, incluindo o **Faturamento Total, Faturamento por Marcas, Faturamento Total por Capital e a Quantidade Vendida por Mês.** Essa visualização facilita a análise de dados e proporciona insights valiosos sobre o desempenho de vendas. A integração entre Excel e Power BI otimiza a apresentação das informações, tornando-as mais acessíveis e compreensíveis
+No Power BI, criei um dashboard dinâmico utilizando uma planilha do Excel como base. O painel apresenta gráficos informativos, incluindo o **Faturamento Total, Faturamento por Marcas, Faturamento Total por Capital e a Quantidade Vendida por Mês.** Essa visualização facilita a análise de dados e proporciona insights valiosos sobre o desempenho de vendas. A integração entre Excel e Power BI otimiza a apresentação das informações, tornando-as mais acessíveis e compreensíveis.
 
 <div>
 <img src="Dashboard/dashboardnopowerbi.png" width="700px" />
